@@ -1,4 +1,4 @@
-# Little Lemon Booking 
+# Little Lemon 
 
 ## Project Description
 This project is a frontend development project for a web application that aims to display a menu of available meals at a Little Lemon restaurant. The website allows users to browse the menu, view images and information about each meal, and perform booking and ordering operations online
